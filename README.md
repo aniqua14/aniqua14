@@ -40,7 +40,7 @@ Collab  : Building AI for Bangla, an underserved 230M+ speaker
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aniqua14&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aniqua's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniqua14&theme=radical&hide_border=true" alt="Aniqua's Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=aniqua14&theme=radical&hide_border=true" alt="Aniqua's Streak" width="49%" />
 </p>
 
 > pinned.projects
