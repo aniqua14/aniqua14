@@ -10,15 +10,17 @@
 
 ```bash
 aniqua@dev:~$ cat about_me.txt
-```
 
-```
 > CSE graduate, University of Liberal Arts Bangladesh (2026)
-> Minor in BBA, but really — I like unraveling patterns in data, wherever they hide: business, social issues, agriculture, health, culture, language
-> Currently building AI systems for Bangla, an underserved 230M+ speaker language
+> Minor in BBA, but really — I like unraveling patterns in
+  data, wherever they hide: business, social issues,
+  agriculture, health, culture, language
+> Currently building AI systems for Bangla, an underserved
+  230M+ speaker language
 > Ex-ML Intern @ Elevvo Pathways
 > Long-term goal: still writing that chapter — stay tuned
-> Currently debugging: RAG pipelines, my own procrastination, and Bangla tokenization
+> Currently debugging: RAG pipelines, my own procrastination,
+  and Bangla tokenization
 ```
 
 ```bash
